@@ -43,4 +43,13 @@ SMB (Server Message Block) - протокол Windows для доступа к �
 
 <img width="1502" height="242" alt="image" src="https://github.com/user-attachments/assets/c818dffa-7bef-4afe-b2e8-6e0a495fb5fe" />
 
+Вопросы
+
+<img width="707" height="1120" alt="image" src="https://github.com/user-attachments/assets/108dd0db-25dd-4120-93d0-a4a624094908" />
+
+Volatility — это главный инструмент в мире цифровой криминалистики (Digital Forensics) для анализа оперативной памяти (RAM).
+
+мы загрузили все данные работы оперативной паямти  и нашли адресс ядра
+
+<img width="1009" height="429" alt="image" src="https://github.com/user-attachments/assets/aefe1a12-88fb-4880-956c-fef6d85afb65" />
 

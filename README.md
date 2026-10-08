@@ -53,3 +53,10 @@ Volatility — это главный инструмент в мире цифро
 
 <img width="1009" height="429" alt="image" src="https://github.com/user-attachments/assets/aefe1a12-88fb-4880-956c-fef6d85afb65" />
 
+Мы нашли файл который имеет автозапуск .exe и это вызвало подозрения 
+
+<img width="1039" height="417" alt="image" src="https://github.com/user-attachments/assets/4048ae04-853e-40bc-9634-5a962658bce9" />
+
+Смотрим СЕССИИ с ip злоумышленника находим файл
+
+<img width="1106" height="92" alt="image" src="https://github.com/user-attachments/assets/fea24c29-0a15-4606-a5a9-f25032f10abb" />
